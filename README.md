@@ -6,7 +6,7 @@
   </p>
 
 
-I'm a Student at the Faculty of Computers and Information, Artificial Intelligence Department, Zagazig University.
+AI/ML Engineer specializing in Machine Learning, Deep Learning, and Computer Vision.
 
 
 
