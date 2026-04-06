@@ -1,5 +1,9 @@
 #  About Me:
-AI & Machine Learning Engineer with experience in building ML and deep learning solutions for real-world projects, including computer vision, predictive modeling, and fraud detection. Skilled in PyTorch, OpenCV, Pandas, and handling real-world data. Exploring deployment with FastAPI & Docker and expanding into NLP. Passionate about turning data into impactful AI solutions.
+AI/ML Engineer with hands-on experience in computer vision, deep learning, and end-to-end
+MLOps. Skilled in data preprocessing, model training, experiment tracking, and production
+deployment using PyTorch, MLflow, FastAPI, and Docker. Adept at handling imbalanced datasets,
+implementing state-of-the-art models, and delivering reproducible, production-ready ML solutions.
+
 
 
 ##  Socials:
