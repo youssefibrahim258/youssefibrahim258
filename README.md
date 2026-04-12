@@ -1,8 +1,9 @@
 #  About Me:
-AI/ML Engineer with hands-on experience in computer vision, deep learning, and end-to-end
-MLOps. Skilled in data preprocessing, model training, experiment tracking, and production
-deployment using PyTorch, MLflow, FastAPI, and Docker. Adept at handling imbalanced datasets,
-implementing state-of-the-art models, and delivering reproducible, production-ready ML solutions.
+AI/ML Engineer specializing in computer vision, deep learning, and MLOps. Experienced in building
+end-to-end pipelines using PyTorch, OpenCV, Scikit-learn, FastAPI, Docker, and MLflow. Hands-on
+expertise in CNN architectures, transfer learning, image classification, and imbalanced dataset handling
+via SMOTE and hybrid resampling. Proven track record deploying production-ready Fast APIs and
+tracking experiments at scale, reproducible ML workflows, and GPU-accelerated model training.
 
 
 
